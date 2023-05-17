@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976094102273",
+    "project_id": "floresdb-58793",
+    "storage_bucket": "floresdb-58793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976094102273:android:7a3f66b0e1ef5e667f5100",
+        "android_client_info": {
+          "package_name": "com.example.evabd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976094102273-3kt8lon7mbc3ur86n5r33soffvgnrt8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evabd",
+            "certificate_hash": "994523e0f5b08ce29199066f5e3f6064cd4e83fd"
+          }
+        },
+        {
+          "client_id": "976094102273-1tmbegama57dl1linp3t83o11p6dvpjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJm0AoXCEAvxlgd0XUn1FTHWOWs00fjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976094102273-1tmbegama57dl1linp3t83o11p6dvpjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
